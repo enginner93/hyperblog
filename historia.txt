@@ -1,5 +1,7 @@
 Esta es la historia de  Git
 
-Fecha de hoy 18 de Junio de 2020
+Fecha de hoy 18 de Junio de 2020.
+
+Añadiendo la modificacion del texto
 
 Hoy hablaremos de su historia!
